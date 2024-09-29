@@ -1,14 +1,17 @@
-import React from 'react'
+import React from 'react';
+import Header from './Components/Header';
+import TitleSection from './Components/TitleSection';
+import PlaySection from './Components/PlaySection';
+import './style.css';
 
 const App = () => {
   return (
     <div>
-      page
-
-      pae pagaw faweowojwiejd awe 
-      <h1>hwlo</h1>
+      <Header />
+      <TitleSection />
+      <PlaySection />
     </div>
-  )
-}
+  );
+};
 
-export default App
+export default App;

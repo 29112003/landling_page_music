@@ -1,0 +1,12 @@
+.circle_div {
+    background-size: cover;
+    background-position: center;
+    background-image: url('./assets/girl.png');
+  }
+  
+.logo {
+    background-size: cover;
+    background-position: center;
+    background-image: url('./assets/logo.png');
+  }
+  

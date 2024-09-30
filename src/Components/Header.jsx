@@ -9,7 +9,7 @@ const Header = () => {
         <h1>Home</h1>
         <h1>About</h1>
         <h1>Package</h1>
-        <h1>Galery</h1>
+        <h1>Gallery</h1>
         <h1>Contact </h1>
       </div>
     </div>
